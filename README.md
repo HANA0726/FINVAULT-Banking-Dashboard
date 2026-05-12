@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-**FINVAULT** is a full end-to-end data analytics portfolio project built on a real-world banking dataset of **3,000 clients**. The project covers the complete data analytics pipeline — from raw CSV ingestion through PostgreSQL, exploratory analysis in Python, to an interactive multi-page Power BI dashboard with dynamic DAX measures.
+**FINVAULT** is a full end-to-end data analytics project built on a real-world banking dataset of **3,000 clients**. The project covers the complete data analytics pipeline — from raw CSV ingestion through PostgreSQL, exploratory analysis in Python, to an interactive multi-page Power BI dashboard with dynamic DAX measures.
 
 ### Problem Statement
 The banking sector faces significant challenges in managing credit risk and minimising losses during the lending process. This project builds a data-driven understanding of client financial profiles to support smarter loan approval decisions.
@@ -281,4 +281,4 @@ This project is part of my portfolio to demonstrate real-world analytics, data e
 ---
 > ⭐ If you found this project useful, consider starring the repository — it helps others discover it too!
 
-*FINVAULT — Smart Banking Dashboard | Data Analytics Portfolio Project | 2025*
+*FINVAULT — Smart Banking Dashboard | Data Analytics Portfolio Project | 2026*
