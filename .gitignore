@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI cache
+*.pbix.lock
+
+# OS
+.DS_Store
+Thumbs.db
